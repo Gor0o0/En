@@ -1,0 +1,41 @@
+# Visual Studio workspace state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# .NET build and restore output
+[Bb]in/
+[Oo]bj/
+[Aa]rtifacts/
+packages/
+TestResults/
+
+# Native Visual C++ build output
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Xx]64/
+**/[Xx]86/
+ipch/
+*.obj
+*.pdb
+*.idb
+*.tlog
+*.lastbuildstate
+*.VC.db
+*.VC.VC.opendb
+*.sdf
+*.opensdf
+
+# Temporary and diagnostic files
+*.log
+*.tmp
+*.bak
+
+# Original starter templates and retired helper build artifacts.
+# The five assignment solutions are the only intended Git deliverables.
+/ConsoleApp4/
+/ConsoleApplication1/
+/ConsoleApplication2/
+/Module01_StyleTarget/
